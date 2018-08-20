@@ -1,0 +1,23 @@
+{
+  "name": "prizz-tip-addresses",
+  "version": "1.0.0",
+  "description": "Provides tip addresses for pRizz, aka Peter Ryszkiewicz, of P Rizz Ventures LLC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pRizz/prizz-tip-addresses.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "tips"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/prizz-tip-addresses/issues"
+  },
+  "homepage": "https://github.com/pRizz/prizz-tip-addresses#readme"
+}
